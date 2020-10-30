@@ -1,0 +1,11 @@
+class MyClass{
+    static void hello(){
+        System.out.println("hello everybody");
+    }
+
+
+public static void main(String[]args){
+    hello();
+}
+}
+
